@@ -11,7 +11,7 @@ Then User will be able to zoom in
 
 
 Examples:
-| TestCaseId     | Login Profile Id | langauage |
+| TestCaseId     | Login Profile Id | Language |
 | ArcGis_Earth_1 | 1819             | English   |
 
 
