@@ -2,7 +2,7 @@ Feature: User will be able to zoom in and out
 
 Background: The user is logged in on ArcGISEarth mobile application
 Given "<Login Profile Id>" is logged in
-And    User is on "<Language>"
+And    User is registered with "<Language>"
 
 
 Scenario Outline: "<TestCaseID>" Customer is able to zoom in ArcGISEarth
