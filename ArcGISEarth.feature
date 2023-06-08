@@ -2,6 +2,7 @@ Feature: User will be able to zoom in and out
 
 Background: The user is logged in on ArcGISEarth mobile application
 Given "<Login Profile Id>" is logged in
+When   User sees earth on page
 And    User is registered with "<Language>"
 
 
