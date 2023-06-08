@@ -5,8 +5,8 @@ import io.cucumer.java.en.When;
 
 public class Zoomin {
   
-@When ("User will see earth on page")
-public void userWillBeAbleToZoomIn(){
+@When ("User sees earth on page")
+public void userSeesEarthOnPage(){
   switch(deviceMode) {
     case GlobalConstant.PHONE:
        switch(language) {
