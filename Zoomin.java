@@ -5,6 +5,8 @@ import io.cucumer.java.en.When;
 
 public class Zoomin {
   
+  
+@Given(
 @When ("User sees earth on page")
 public void userSeesEarthOnPage(){
   switch(deviceMode) {
