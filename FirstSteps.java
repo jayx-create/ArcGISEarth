@@ -3,7 +3,7 @@ import io.cucumer.java.en.Given;
 import io.cucumer.java.en.Then;
 import io.cucumer.java.en.When;
 
-public class Zoomin {
+public class FirstSteps {
   
   
 @Given("{string} is logged in")
