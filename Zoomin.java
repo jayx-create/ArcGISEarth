@@ -5,12 +5,14 @@ import io.cucumer.java.en.When;
 
 public class Zoomin {
   
-@Then ("User will be able to zoom in")
+@When ("User will see earth on page")
 public void userWillBeAbleToZoomIn(){
   switch(deviceMode) {
     case GlobalConstant.PHONE:
        switch(language) {
          case GlobalConstant.ENGLISH:
-           
+           arcEarthPage.earthGlobe.waitForVisible();
+       }
+    }
   }
 }
