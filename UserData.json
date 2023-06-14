@@ -6,7 +6,7 @@
 "firstName": John
 "LastName": "Doe"
 "emailToken": "John.Doe@gmail.com"
-"mode": "Mobile",
+"mode": "Phone",
 "deviceExperience": "BROWSER"
 }
 {
@@ -16,7 +16,7 @@
 "firstName": "Jim"
 "LastName": "Carter"
 "emailToken": "Jim.Carter@gmail.com"
-"mode": "Mobile",
+"mode": "Phone",
 "deviceExperience": "BROWSER"
 }
 ]
